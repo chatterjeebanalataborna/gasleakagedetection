@@ -99,8 +99,8 @@ body {
               padding: calc(8rem - 30px) 0 8rem 0; } }
     .img-fluid1{
           position: absolute;
-          margin-left: 57%;
-          margin-top:-34%;
+          margin-left: 59%;
+          margin-top:-37%;
           border-radius: 50px ;
         }
          
@@ -174,6 +174,7 @@ body {
   position: absolute;
   margin-left: 5%;
   padding: 0 0 7rem;
+
 }
 .mb-4{
   margin-left: 45%;
@@ -214,7 +215,7 @@ filter: drop-shadow(5px 5px 10px #555); }
 .section-3 .heading-1{
   margin-left: 55%;
   position: absolute;
-  margin-top: -17.8%;
+  margin-top: -18.8%;
   font-family: 'Righteous';
   width: 80%;
   color: rgb(12, 1, 1);  
@@ -224,7 +225,7 @@ filter: drop-shadow(5px 5px 10px #555); }
 .section-3 .heading-2{
   margin-left: 60%;
   position: absolute;
-  margin-top: -17.5%;
+  margin-top: -18.5%;
   width: 80% ;
   font-family: 'Righteous';
   color: #c54408;
@@ -235,7 +236,7 @@ filter: drop-shadow(5px 5px 10px #555); }
   width: 27%;
   margin-left: 66%;
   position: absolute;
-  margin-top:-13%;
+  margin-top:-14%;
   font-family: "ubuntu";
   color: rgb(19, 1, 1);
   font-size: x-large;
